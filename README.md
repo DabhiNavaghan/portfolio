@@ -2,7 +2,7 @@
 https://DabhiNavaghan.github.io/portfolio/
 
 ### `clone project` 
-~~ git clone https://github.com/DabhiNavaghan/portfolio.git~~
+``git clone https://github.com/DabhiNavaghan/portfolio.git``
 
 ## Available Scripts
 
