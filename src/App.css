@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.name {
+  font-size: 150px;
+  margin-bottom: 0;
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.email {
+  margin-bottom: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 16px;
+}
+
+.helper{
+  font-size: 16px;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.position {
+  font-size: 26px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.App-header {
+  background-color: #60627C;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
