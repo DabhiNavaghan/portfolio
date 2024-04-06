@@ -53,7 +53,13 @@
     position: absolute;
     background-color: var(--text-color);
 }
+.icon {
+    display: inline-block; 
+  }
+  
+  /* Add more size classes as needed */
 
+  
 @media only screen and (max-width: 991px) {
     .stick_follow_icon {
         width: unset;

@@ -44,7 +44,7 @@
 @media only screen and (max-width: 991px) {
 
 .name {
-  font-size: 75px;
+  font-size: 62px;
   margin-bottom: 0;
   font-family: "Cinzel", serif;
   font-optical-sizing: auto;
@@ -55,5 +55,13 @@
   margin-bottom: 0;
   font-family: "Montserrat Alternates", sans-serif;
   font-size: 16px;
+}
+.position {
+  font-size: 20px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 }

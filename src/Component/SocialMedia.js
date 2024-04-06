@@ -23,6 +23,9 @@ export const Socialicons = (params) => {
     <div className="stick_follow_icon">
      <div className="icons">
      <ul>
+
+    
+ 
         <Icon URL={socialprofils.twitter} icon={ <FaTwitter  />}></Icon>
         <Icon URL={socialprofils.github} icon={ <FaGithub  />}></Icon>
         <Icon URL={socialprofils.github1} icon={ <FaGithub  />}></Icon>
@@ -40,7 +43,7 @@ const Icon = ({ URL, icon }) => {
     return URL && ( // Condition to render the icon only if URL is provided
       <li>
         <a href={URL}>
-          {icon}
+        <span className={"icon"}>{icon}</span>
         </a>
       </li>
     );
