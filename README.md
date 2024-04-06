@@ -1,8 +1,8 @@
 ## Check Preview Here
 https://DabhiNavaghan.github.io/portfolio/
 
-### `clone project` 
-~~ git clone https://github.com/DabhiNavaghan/portfolio.git~~
+### `clone project`
+``git clone https://github.com/DabhiNavaghan/portfolio.git``
 
 ## Available Scripts
 
@@ -16,7 +16,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console. 
+You may also see any lint errors in the console.
 
 ### `npm run build`
 Builds the app for production to the `build` folder.\

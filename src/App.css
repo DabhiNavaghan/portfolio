@@ -39,3 +39,21 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
+@media only screen and (max-width: 991px) {
+
+.name {
+  font-size: 75px;
+  margin-bottom: 0;
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.email {
+  margin-bottom: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 16px;
+}
+}
